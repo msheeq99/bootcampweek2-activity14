@@ -76,6 +76,7 @@ article p {
 article ul {
   margin: 2%;
   list-style: square;
+  font-family: monospace;
 }
 
 aside {
